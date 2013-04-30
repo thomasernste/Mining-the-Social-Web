@@ -14,10 +14,10 @@ print >> sys.stderr, """This example has been updated to use Twitter's v1.1 API,
 To run this example, you'll just need to go to http://twitter.com/apps/new to create an app and get authentication credentials that should be inserted into this file's source code. See https://dev.twitter.com/docs/auth/oauth for more information on Twitter's OAuth implementation"""
 
 # Fill in these 4 values
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
-OAUTH_TOKEN = ''
-OAUTH_TOKEN_SECRET = ''
+CONSUMER_KEY = 'v05MAUmDrd4nh4EPLDoiHw'
+CONSUMER_SECRET = 'oSSiyAlPc8X9j2JCO7ZVsm0KsFRYsvYr50GvGEk'
+OAUTH_TOKEN = '16711783-0rc27QcJX3dXuKDP04zw8kyy8LxR9GlHmEuJFnSdb'
+OAUTH_TOKEN_SECRET = 'NTj9NpzBpdF4xHisGdkQdpCAW79XrkTnjyk6DKmex0'
 
 # Your query - pass it in as a command line parameter (or hard code it if you prefer)
 Q = sys.argv[1]

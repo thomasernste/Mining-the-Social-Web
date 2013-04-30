@@ -12,9 +12,9 @@ def login():
     # Go to http://twitter.com/apps/new to create an app and get these items
     # See also http://dev.twitter.com/pages/oauth_single_token
 
-    APP_NAME = ''
-    CONSUMER_KEY = ''
-    CONSUMER_SECRET = ''
+    APP_NAME = 'Gatekeeping4'
+    CONSUMER_KEY = 'v05MAUmDrd4nh4EPLDoiHw'
+    CONSUMER_SECRET = 'oSSiyAlPc8X9j2JCO7ZVsm0KsFRYsvYr50GvGEk'
     TOKEN_FILE = 'out/twitter.oauth'
 
     try:

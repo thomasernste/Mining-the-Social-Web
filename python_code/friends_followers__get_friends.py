@@ -11,8 +11,8 @@ SCREEN_NAME = sys.argv[1]
 # Go to http://twitter.com/apps/new to create an app 
 # to get the consumer key/secret
 
-CONSUMER_KEY = sys.argv[2]
-CONSUMER_SECRET = sys.argv[3]
+CONSUMER_KEY = 'v05MAUmDrd4nh4EPLDoiHw'
+CONSUMER_SECRET = 'oSSiyAlPc8X9j2JCO7ZVsm0KsFRYsvYr50GvGEk'
 
 friends_limit = 10000
 
